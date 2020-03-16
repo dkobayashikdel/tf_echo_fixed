@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tf_echo_fixed</name>
+  <version>0.0.0</version>
+  <description>The tf_echo_fixed package</description>
+
+  <maintainer email="kobayashi@kdel.info.eng.osaka-cu.ac.jp">Daiki KOBAYASHI</maintainer>
+
+  <license>BSD</license>
+
+  <author>Daiki KOBAYASHI</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>tf</build_depend>
+  <build_export_depend>tf</build_export_depend>
+  <exec_depend>tf</exec_depend>
+
+  <export>
+  </export>
+</package>
